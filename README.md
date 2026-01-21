@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Aubai 👋
 
-<!--
-**Aubai9/Aubai9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Computer Science Student & Problem Solver
 
-Here are some ideas to get you started:
+I'm currently focusing on building a strong foundation in Computer Science with **Engineer Mohamed Abu-Hadhoud**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Current Focus:** Algorithms & Data Structures (C++).
+- 💻 **Next Step:** Web Development (Full stack).
+- 🧩 **Hobbies:** Solving logic puzzles and coding.
+
+---
+
+### 🛠️ Languages & Tools
+- **C++** (Advanced)
+- **OOP** (Object Oriented Programming)
+- **Algorithms** (Level 1 & 2)
+
+---
