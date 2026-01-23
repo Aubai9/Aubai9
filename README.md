@@ -9,6 +9,8 @@ I'm currently focusing on building a strong foundation in Computer Science with 
 - 🧩 **Hobbies:** Solving logic puzzles and coding.
 
 ---
+- ✅ **Completed:** Algorithms Level 1 & C++ Level 2 (Arrays & Functions).
+- 🔭 **Current Focus:** Algorithms Level 3 (Matrices & Strings).
 
 ### 🛠️ Languages & Tools
 - **C++** (Advanced)
