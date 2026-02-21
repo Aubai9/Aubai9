@@ -40,4 +40,4 @@
 </p>
 
 ---
-📫 **How to reach me:** Feel free to explore my pinned projects below!
+📫 **How to reach me:** Feel free to explore my pinned projects !
